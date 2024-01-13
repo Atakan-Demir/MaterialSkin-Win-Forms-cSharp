@@ -1,0 +1,12 @@
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\bin\Debug\project.exe.config
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\bin\Debug\project.exe
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\bin\Debug\project.pdb
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\bin\Debug\MaterialSkin.dll
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\obj\Debug\project.Form1.resources
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\obj\Debug\project.Properties.Resources.resources
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\obj\Debug\project.csproj.CopyComplete
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\obj\Debug\project.exe
+E:\Yazılım\Github\MaterialSkin-Win-Forms-cSharp\project\obj\Debug\project.pdb
